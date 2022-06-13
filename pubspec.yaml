@@ -1,0 +1,138 @@
+name: q4me
+version: 1.0.0+5
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  introduction_screen: ^2.1.0
+  get: 4.1.4
+  flutter_svg: ^0.22.0
+  flutter:
+    sdk: flutter
+  firebase_remote_config: ^0.10.0+2
+  firebase_core: ^1.6.0
+  firebase_auth:
+  google_sign_in:
+  dio: 4.0.0
+  dio_http_cache:
+  shared_preferences:
+  get_it: ^3.0.3
+  connectivity_plus: ^2.0.3
+  fluttertoast: ^8.0.3
+  contacts_service:
+  permission_handler: ^8.1.4+2
+  audioplayers:
+  flutter_audio_recorder2: ^0.0.2
+  confetti: ^0.5.5
+  firebase_messaging:
+  overlay_support: ^1.2.1
+  firebase_analytics: ^8.3.1
+  auto_size_text: ^2.1.0
+  sign_in_with_apple: ^3.2.0
+  purchases_flutter: ^3.6.0
+  cached_network_image:
+  fl_chart: ^0.40.5
+  url_launcher:
+  carousel_slider: ^4.0.0
+  pin_code_fields: ^7.3.0
+  sms_autofill: ^2.2.0
+  country_code_picker: ^2.0.2
+  flutter_switch: ^0.3.2
+  percent_indicator: ^4.0.0
+  flutter_html: ^2.2.1
+  webview_flutter:
+  app_settings:
+  flutter_inappwebview:
+  connectivity: ^3.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/svgs/
+    - assets/images/
+    - assets/images/logo.png
+    - assets/images/logo_slogan.png
+    - assets/images/1.png
+    - assets/images/2.png
+    - assets/images/3.png
+    - assets/images/4.png
+    - assets/images/5.png
+    - assets/images/6.png
+    - assets/images/7.png
+    - assets/images/background.png
+    - assets/images/Rectangle.png
+    - assets/images/time.png
+    - assets/images/tour_screen_1.png
+    - assets/images/tour_screen_2.png
+    - assets/images/tour_screen_3.png
+    - assets/images/person_bg.png
+    - assets/images/tick.png
+    - assets/images/recording.png
+    - assets/images/recordinglight.png
+    - assets/images/shadow1.png
+    - assets/images/shadow.png
+    - assets/images/atnt.png
+    - assets/images/sprint.png
+    - assets/images/verizon.png
+    - assets/images/vodafone.png
+    - assets/images/tmobile.png
+    - assets/images/soundrecord.gif
+    - assets/images/Group 53.png
+    - assets/images/qicon.png
+    - assets/images/qicon2.png
+    - assets/images/google.png
+    - assets/svgs/home.svg
+    - assets/svgs/person.svg
+    - assets/svgs/mobile.svg
+    - assets/svgs/q_logo.svg
+    - assets/svgs/tour1.svg
+    - assets/svgs/tour3.svg
+    - assets/svgs/user.svg
+    - assets/svgs/message.svg
+    - assets/svgs/mic.svg
+    - assets/svgs/logout.svg
+    - assets/svgs/settings.svg
+    - assets/svgs/qicon2.svg
+    - assets/svgs/phone-contact.svg
+    - assets/svgs/search.svg
+    - assets/svgs/breakdown.svg
+    - assets/svgs/call-tracker.svg
+    - assets/svgs/profile.svg
+    - assets/svgs/email.svg
+    - assets/svgs/Q.svg
+    - assets/images/Q_logo.png
+    - assets/images/empty_pie_chart.png
+    - assets/svgs/configuration.svg
+    - assets/svgs/cross1.svg
+    - assets/svgs/x-circle.svg
+    - assets/images/confetti.gif
+    - assets/svgs/chat.svg
+    - assets/images/question.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Light.ttf
+          weight: 400
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Poppins-Black.ttf
+          weight: 800
+        - asset: assets/fonts/Poppins-ExtraBold.ttf
+          weight: 900
+
+    - family: icomoon
+      fonts:
+        - asset: assets/fonts/icomoon.ttf

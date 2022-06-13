@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "722544562757",
+    "project_id": "q4me-ec20b",
+    "storage_bucket": "q4me-ec20b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722544562757:android:92589b7c7ecc6e33ad492c",
+        "android_client_info": {
+          "package_name": "com.prixa.q4me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722544562757-hi8q00tbqopl5v0jvd0l961ecs3oc31p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prixa.q4me",
+            "certificate_hash": "3afa9832435d35215a20ec249333ae85a09f5cc3"
+          }
+        },
+        {
+          "client_id": "722544562757-msge8ev6r81p3mkksdsucro1csne9iqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBxUiX-pO7bHKN0Vxeg8OwS-5YlAhf9Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722544562757-0lsf9uosgflc2a656llgoilmsq4cbqgj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "722544562757-ctobbvo3rbto5feqirq4l11uqpsh9lc7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prixa.q4me"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

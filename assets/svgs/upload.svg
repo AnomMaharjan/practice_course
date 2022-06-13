@@ -1,0 +1,24 @@
+<svg width="44" height="44" viewBox="0 0 44 44" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-14.5%" y="-9.2%" width="128.9%" height="128.9%" filterUnits="objectBoundingBox" id="91f9r4jq0a">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.0931251366 0" in="shadowBlurOuter1"/>
+        </filter>
+        <rect id="mfxbqylohb" x="0" y="0" width="38" height="38" rx="5"/>
+        <path id="vcxlleu9xc" d="M0 0h18v15.67H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g transform="translate(3 1)">
+            <use fill="#000" filter="url(#91f9r4jq0a)" xlink:href="#mfxbqylohb"/>
+            <use fill="#FFF" xlink:href="#mfxbqylohb"/>
+        </g>
+        <g transform="translate(13 12)">
+            <mask id="2e0as8ro6d" fill="#fff">
+                <use xlink:href="#vcxlleu9xc"/>
+            </mask>
+            <path d="M16.344 13.206c0 .521-.289.809-.813.809H2.492c-.563 0-.837-.275-.837-.841V4.82c0-.54.288-.827.832-.827h2.699c.513 0 .777-.191.94-.682l.124-.37.24-.717c.133-.397.365-.566.775-.566h3.483c.39 0 .63.173.755.544l.184.55c.067.202.134.405.203.607.149.438.42.633.882.634h2.771c.51 0 .801.294.801.804v8.409M18 4.77c0-1.385-1.047-2.43-2.433-2.433h-.455c-.593-.002-1.207-.003-1.81.004h-.011A2.347 2.347 0 0 0 10.827.005a354.689 354.689 0 0 0-3.65 0 2.345 2.345 0 0 0-2.203 1.548c-.106.286-.193.544-.266.789-.579-.005-1.164-.004-1.73-.003h-.505C1.017 2.338 0 3.353 0 4.805v8.392c0 1.456 1.015 2.473 2.468 2.473H15.565c1.387-.001 2.433-1.047 2.434-2.433V4.77" fill="#8BC34C" mask="url(#2e0as8ro6d)"/>
+        </g>
+        <path d="m22.01 23.801-.003-.122a2.967 2.967 0 1 1 .013-5.934c1.622 0 2.944 1.334 2.946 2.973a2.935 2.935 0 0 1-.87 2.09 2.933 2.933 0 0 1-2.086.871v.122zm-.024-7.711h-.001a4.568 4.568 0 0 0-3.257 1.358 4.6 4.6 0 0 0-1.35 3.27 4.629 4.629 0 0 0 4.62 4.617c2.547 0 4.621-2.068 4.623-4.609a4.602 4.602 0 0 0-1.354-3.28 4.608 4.608 0 0 0-3.281-1.356zM27.865 16.674a.827.827 0 1 0-.043 1.654h.015a.832.832 0 0 0 .827-.806.829.829 0 0 0-.8-.848" fill="#8BC34C"/>
+    </g>
+</svg>

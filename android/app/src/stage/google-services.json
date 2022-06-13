@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "524762284544",
+    "project_id": "q4me-staging",
+    "storage_bucket": "q4me-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524762284544:android:b34c0a26d24ea5cc388ee5",
+        "android_client_info": {
+          "package_name": "com.q4me.stage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524762284544-94fgeb3i4lokqlljtsgjqjg0hdqqv4pg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.q4me.stage",
+            "certificate_hash": "4207f7ae6e0f54d6655efdb2d7217b4b752ed41d"
+          }
+        },
+        {
+          "client_id": "524762284544-9ir8j07cknm82s53juvjqeve2v0spmi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.q4me.stage",
+            "certificate_hash": "b68431e5140f784ad249c421cda350eda5eebd64"
+          }
+        },
+        {
+          "client_id": "524762284544-rkud9dbq48fo3dj89h0eo1bikgfk73rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.q4me.stage",
+            "certificate_hash": "8e3c52b162871efa242f35e28263897443213d88"
+          }
+        },
+        {
+          "client_id": "524762284544-ghprhq13hettptgurf776ott605bcu44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZeoI9I3ZouzYPudbSaJrRZwtSEQnjpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524762284544-ghprhq13hettptgurf776ott605bcu44.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "524762284544-alao771kq3vpfed26l47gjfhf73ih9oo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.q4me.stage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

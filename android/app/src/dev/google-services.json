@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "563247528346",
+    "project_id": "q4me-dev",
+    "storage_bucket": "q4me-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563247528346:android:f1a58c0f4ffa642b1de223",
+        "android_client_info": {
+          "package_name": "com.q4me.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563247528346-g9glpbdeqvlru06pcva5efhk1m1t2jij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.q4me.dev",
+            "certificate_hash": "4207f7ae6e0f54d6655efdb2d7217b4b752ed41d"
+          }
+        },
+        {
+          "client_id": "563247528346-in9bmltpsmfr8trn0tt2r1tn11u3g5ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.q4me.dev",
+            "certificate_hash": "b68431e5140f784ad249c421cda350eda5eebd64"
+          }
+        },
+        {
+          "client_id": "563247528346-q9sb2425i6uttehk0bsn3d30eonn4cce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATa-R4UzkSqVpZwpUiYbPbSOxIqS3d3hM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563247528346-q9sb2425i6uttehk0bsn3d30eonn4cce.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "563247528346-h1uis5t8jgr56h0c22to412maj2d4tf8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.q4me.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
